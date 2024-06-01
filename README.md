@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
+- 🔭 I’m currently working on **Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
 
 - 🌱 I’m currently learning **Everything that can boost me up.**
 
