@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
+- 🔭 I’m currently working on **Blockchain, Solidity, VueJS,Node JS, MongoDB, Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
 
 - 🌱 I’m currently learning **Everything that can boost me up.**
 
