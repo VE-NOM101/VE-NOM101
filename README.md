@@ -26,17 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Blockchain, Solidity, VueJS,Node JS, MongoDB, Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
+- 🔭 I’m currently working on **Blockchain, Solidity, Web3 Application, Ethereum, VueJS, Node JS, MongoDB, Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
 
 - 🌱 I’m currently learning **Everything that can boost me up.**
-
-- 📝 I regularly write articles on [Hashnode]()
+https://my-portfolio-frontend-delta.vercel.app/
+- 📝 Here is my portfolio <a href="https://my-portfolio-frontend-delta.vercel.app/" target="_blank" > Visit Portfolio</a>
 
 - 💬 Ask me about **JS, CSS, HTML, C++, C, Java, Android, PHP, DBMS**
 
 - 📫 Feel free to reach me out **choyanbaruakuetcse@gmail.com**
-
-- 🏠 Also We've a tech community called [Not available]().
 <!--Intro end-->
 
 <!--h1 without bottom border-->
