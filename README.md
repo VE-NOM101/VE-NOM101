@@ -29,8 +29,8 @@
 - 🔭 I’m currently working on **Blockchain, Solidity, Web3 Application, Ethereum, VueJS, Node JS, MongoDB, Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
 
 - 🌱 I’m currently learning **Everything that can boost me up.**
-https://my-portfolio-frontend-delta.vercel.app/
-- 📝 Here is my portfolio <a href="https://my-portfolio-frontend-delta.vercel.app/" target="_blank" > Visit Portfolio</a>
+
+- 📝 Here is my portfolio <a href="https://my-portfolio-frontend-delta.vercel.app/" target="_blank" >Visit Portfolio</a>
 
 - 💬 Ask me about **JS, CSS, HTML, C++, C, Java, Android, PHP, DBMS**
 
