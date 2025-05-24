@@ -32,7 +32,7 @@
 
 - 📝 Here is my portfolio <a href="https://my-portfolio-frontend-delta.vercel.app/" target="_blank" >Visit Portfolio</a>
 
-- 💬 Ask me about **Blockchain, solidity, Vue Js, JS, C++, C, Java, Android, PHP, DBMS**
+- 💬 Ask me about **Blockchain, Solidity, Vue Js, JS, C++, C, Java, Android, PHP, DBMS**
 
 - 📫 Feel free to reach me out **choyanbaruakuetcse@gmail.com**
 <!--Intro end-->
