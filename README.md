@@ -26,13 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Blockchain, Solidity, Web3 Application, Ethereum, VueJS, Node JS, MongoDB, Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
+- 🔭 I’m currently working on **Blockchain, Solidity, Web3 Application, Ethereum, Nuxt, VueJS, Node JS, MongoDB, Laravel, C++, C#, Javascript, CSS, HTML, PHP, ASP.NET, Android, DBMS**
 
 - 🌱 I’m currently learning **Everything that can boost me up.**
 
 - 📝 Here is my portfolio <a href="https://my-portfolio-frontend-delta.vercel.app/" target="_blank" >Visit Portfolio</a>
 
-- 💬 Ask me about **JS, CSS, HTML, C++, C, Java, Android, PHP, DBMS**
+- 💬 Ask me about **Blockchain, solidity, Vue Js, JS, C++, C, Java, Android, PHP, DBMS**
 
 - 📫 Feel free to reach me out **choyanbaruakuetcse@gmail.com**
 <!--Intro end-->
