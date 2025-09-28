@@ -34,7 +34,7 @@
 
 - 💬 Ask me about **Blockchain, Solidity, Vue Js, JS, C++, C, Java, Android, PHP, DBMS**
 
-- 📫 Feel free to reach me out **choyanbaruakuetcse@gmail.com**
+- 📫 Feel free to reach me out **@gmail.com**
 <!--Intro end-->
 
 <!--h1 without bottom border-->
